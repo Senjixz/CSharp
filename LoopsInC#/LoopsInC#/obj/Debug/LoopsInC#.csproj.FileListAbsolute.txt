@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\LoopsInC#\LoopsInC#\bin\Debug\LoopsInC#.exe.config
+C:\Users\admin\Pictures\manytests\C#\LoopsInC#\LoopsInC#\bin\Debug\LoopsInC#.exe
+C:\Users\admin\Pictures\manytests\C#\LoopsInC#\LoopsInC#\bin\Debug\LoopsInC#.pdb
+C:\Users\admin\Pictures\manytests\C#\LoopsInC#\LoopsInC#\obj\Debug\LoopsInC#.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\LoopsInC#\LoopsInC#\obj\Debug\LoopsInC#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\LoopsInC#\LoopsInC#\obj\Debug\LoopsInC#.exe
+C:\Users\admin\Pictures\manytests\C#\LoopsInC#\LoopsInC#\obj\Debug\LoopsInC#.pdb
