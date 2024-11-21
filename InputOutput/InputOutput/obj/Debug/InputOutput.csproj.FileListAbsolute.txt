@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\InputOutput\InputOutput\bin\Debug\InputOutput.exe.config
+C:\Users\admin\Pictures\manytests\C#\InputOutput\InputOutput\bin\Debug\InputOutput.exe
+C:\Users\admin\Pictures\manytests\C#\InputOutput\InputOutput\bin\Debug\InputOutput.pdb
+C:\Users\admin\Pictures\manytests\C#\InputOutput\InputOutput\obj\Debug\InputOutput.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\InputOutput\InputOutput\obj\Debug\InputOutput.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\InputOutput\InputOutput\obj\Debug\InputOutput.exe
+C:\Users\admin\Pictures\manytests\C#\InputOutput\InputOutput\obj\Debug\InputOutput.pdb

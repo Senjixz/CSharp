@@ -13,7 +13,7 @@ namespace Conversion_in_C_
 
             string numberAsString = "234";
             int number = int.Parse(numberAsString);
-            Console.WriteLine(numberAsString);
+            Console.WriteLine(number);
             
 
         }
