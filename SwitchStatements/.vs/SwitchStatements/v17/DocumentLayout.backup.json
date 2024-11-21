@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Pictures\\manytests\\C#\\SwitchStatements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6E64B3D-605D-4C56-96EE-FCE73DBA54FC}|SwitchStatements\\SwitchStatements.csproj|c:\\users\\admin\\pictures\\manytests\\c#\\switchstatements\\switchstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6E64B3D-605D-4C56-96EE-FCE73DBA54FC}|SwitchStatements\\SwitchStatements.csproj|solutionrelative:switchstatements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Pictures\\manytests\\C#\\SwitchStatements\\SwitchStatements\\Program.cs",
+              "RelativeDocumentMoniker": "SwitchStatements\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Pictures\\manytests\\C#\\SwitchStatements\\SwitchStatements\\Program.cs",
+              "RelativeToolTip": "SwitchStatements\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T09:52:55.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
