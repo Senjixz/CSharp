@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Pictures\\manytests\\C#\\ConditionOperator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD5789E4-C8E3-401F-80C1-6D43230440AF}|ConditionOperator\\ConditionOperator.csproj|c:\\users\\admin\\pictures\\manytests\\c#\\conditionoperator\\conditionoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD5789E4-C8E3-401F-80C1-6D43230440AF}|ConditionOperator\\ConditionOperator.csproj|solutionrelative:conditionoperator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Pictures\\manytests\\C#\\ConditionOperator\\ConditionOperator\\Program.cs",
+              "RelativeDocumentMoniker": "ConditionOperator\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Pictures\\manytests\\C#\\ConditionOperator\\ConditionOperator\\Program.cs",
+              "RelativeToolTip": "ConditionOperator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:01:50.567Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

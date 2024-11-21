@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+C:\Users\admin\Pictures\manytests\C#\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+C:\Users\admin\Pictures\manytests\C#\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+C:\Users\admin\Pictures\manytests\C#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+C:\Users\admin\Pictures\manytests\C#\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb

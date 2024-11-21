@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\Conversion in C#\Conversion in C#\bin\Debug\Conversion in C#.exe.config
+C:\Users\admin\Pictures\manytests\C#\Conversion in C#\Conversion in C#\bin\Debug\Conversion in C#.exe
+C:\Users\admin\Pictures\manytests\C#\Conversion in C#\Conversion in C#\bin\Debug\Conversion in C#.pdb
+C:\Users\admin\Pictures\manytests\C#\Conversion in C#\Conversion in C#\obj\Debug\Conversion in C#.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\Conversion in C#\Conversion in C#\obj\Debug\Conversion in C#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\Conversion in C#\Conversion in C#\obj\Debug\Conversion in C#.exe
+C:\Users\admin\Pictures\manytests\C#\Conversion in C#\Conversion in C#\obj\Debug\Conversion in C#.pdb

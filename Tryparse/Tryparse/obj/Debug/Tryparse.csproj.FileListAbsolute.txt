@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\Tryparse\Tryparse\obj\Debug\Tryparse.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\Tryparse\Tryparse\obj\Debug\Tryparse.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\Tryparse\Tryparse\bin\Debug\Tryparse.exe.config
+C:\Users\admin\Pictures\manytests\C#\Tryparse\Tryparse\bin\Debug\Tryparse.exe
+C:\Users\admin\Pictures\manytests\C#\Tryparse\Tryparse\bin\Debug\Tryparse.pdb
+C:\Users\admin\Pictures\manytests\C#\Tryparse\Tryparse\obj\Debug\Tryparse.exe
+C:\Users\admin\Pictures\manytests\C#\Tryparse\Tryparse\obj\Debug\Tryparse.pdb

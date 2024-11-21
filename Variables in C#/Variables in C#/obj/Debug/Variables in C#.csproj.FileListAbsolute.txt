@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\Variables in C#\Variables in C#\obj\Debug\Variables in C#.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\Variables in C#\Variables in C#\obj\Debug\Variables in C#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\Variables in C#\Variables in C#\bin\Debug\Variables in C#.exe.config
+C:\Users\admin\Pictures\manytests\C#\Variables in C#\Variables in C#\bin\Debug\Variables in C#.exe
+C:\Users\admin\Pictures\manytests\C#\Variables in C#\Variables in C#\bin\Debug\Variables in C#.pdb
+C:\Users\admin\Pictures\manytests\C#\Variables in C#\Variables in C#\obj\Debug\Variables in C#.exe
+C:\Users\admin\Pictures\manytests\C#\Variables in C#\Variables in C#\obj\Debug\Variables in C#.pdb
