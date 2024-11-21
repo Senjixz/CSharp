@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\AgeVerification\AgeVerification\bin\Debug\AgeVerification.exe.config
+C:\Users\admin\Pictures\manytests\C#\AgeVerification\AgeVerification\bin\Debug\AgeVerification.exe
+C:\Users\admin\Pictures\manytests\C#\AgeVerification\AgeVerification\bin\Debug\AgeVerification.pdb
+C:\Users\admin\Pictures\manytests\C#\AgeVerification\AgeVerification\obj\Debug\AgeVerification.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\AgeVerification\AgeVerification\obj\Debug\AgeVerification.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\AgeVerification\AgeVerification\obj\Debug\AgeVerification.exe
+C:\Users\admin\Pictures\manytests\C#\AgeVerification\AgeVerification\obj\Debug\AgeVerification.pdb
