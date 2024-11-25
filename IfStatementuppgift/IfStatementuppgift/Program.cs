@@ -10,10 +10,10 @@ namespace IfStatementuppgift
     {
         static void Main(string[] args)
         {
-            Console.Write("What is your name? ");
+            Console.Write("What is your name: ");
             string name = Console.ReadLine();
 
-            Console.Write("What is your age? ");
+            Console.Write("What is your age: ");
             string ageInput = Console.ReadLine();
             int age = Convert.ToInt32(ageInput);
 
