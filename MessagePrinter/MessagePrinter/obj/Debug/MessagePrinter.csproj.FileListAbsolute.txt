@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\MessagePrinter\MessagePrinter\bin\Debug\MessagePrinter.exe.config
+C:\Users\admin\Pictures\manytests\C#\MessagePrinter\MessagePrinter\bin\Debug\MessagePrinter.exe
+C:\Users\admin\Pictures\manytests\C#\MessagePrinter\MessagePrinter\bin\Debug\MessagePrinter.pdb
+C:\Users\admin\Pictures\manytests\C#\MessagePrinter\MessagePrinter\obj\Debug\MessagePrinter.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\MessagePrinter\MessagePrinter\obj\Debug\MessagePrinter.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\MessagePrinter\MessagePrinter\obj\Debug\MessagePrinter.exe
+C:\Users\admin\Pictures\manytests\C#\MessagePrinter\MessagePrinter\obj\Debug\MessagePrinter.pdb
