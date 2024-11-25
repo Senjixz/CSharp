@@ -20,15 +20,15 @@ namespace IfStatementuppgift
             Console.WriteLine();
             Console.WriteLine("Your name is " + name + " and you age is " + age);
 
-            if (age >= 18)
+            if (age >= 20)
             {
                 Console.WriteLine("You are eligible to vote");
             }
-            else if(age <=18)
+            else if(age <=19)
             {
                 Console.WriteLine("You are not eligible to vote");
             }
-            if (age >= 0 || age > 150)
+            if (age <= 0 || age > 150)
             {
                 Console.WriteLine("Invalid age!");
             }

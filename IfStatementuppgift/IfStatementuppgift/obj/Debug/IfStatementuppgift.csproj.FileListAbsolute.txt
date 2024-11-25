@@ -5,3 +5,10 @@ C:\Users\admin\Pictures\manytests\C#\IfStatementuppgift\IfStatementuppgift\obj\D
 C:\Users\admin\Pictures\manytests\C#\IfStatementuppgift\IfStatementuppgift\obj\Debug\IfStatementuppgift.csproj.CoreCompileInputs.cache
 C:\Users\admin\Pictures\manytests\C#\IfStatementuppgift\IfStatementuppgift\obj\Debug\IfStatementuppgift.exe
 C:\Users\admin\Pictures\manytests\C#\IfStatementuppgift\IfStatementuppgift\obj\Debug\IfStatementuppgift.pdb
+C:\Users\admin\Documents\C#Assigments\IfStatementuppgift\IfStatementuppgift\bin\Debug\IfStatementuppgift.exe.config
+C:\Users\admin\Documents\C#Assigments\IfStatementuppgift\IfStatementuppgift\bin\Debug\IfStatementuppgift.exe
+C:\Users\admin\Documents\C#Assigments\IfStatementuppgift\IfStatementuppgift\bin\Debug\IfStatementuppgift.pdb
+C:\Users\admin\Documents\C#Assigments\IfStatementuppgift\IfStatementuppgift\obj\Debug\IfStatementuppgift.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C#Assigments\IfStatementuppgift\IfStatementuppgift\obj\Debug\IfStatementuppgift.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#Assigments\IfStatementuppgift\IfStatementuppgift\obj\Debug\IfStatementuppgift.exe
+C:\Users\admin\Documents\C#Assigments\IfStatementuppgift\IfStatementuppgift\obj\Debug\IfStatementuppgift.pdb
