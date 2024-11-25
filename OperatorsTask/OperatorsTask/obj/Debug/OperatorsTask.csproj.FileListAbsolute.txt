@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\OperatorsTask\OperatorsTask\bin\Debug\OperatorsTask.exe.config
+C:\Users\admin\Pictures\manytests\C#\OperatorsTask\OperatorsTask\bin\Debug\OperatorsTask.exe
+C:\Users\admin\Pictures\manytests\C#\OperatorsTask\OperatorsTask\bin\Debug\OperatorsTask.pdb
+C:\Users\admin\Pictures\manytests\C#\OperatorsTask\OperatorsTask\obj\Debug\OperatorsTask.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\OperatorsTask\OperatorsTask\obj\Debug\OperatorsTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\OperatorsTask\OperatorsTask\obj\Debug\OperatorsTask.exe
+C:\Users\admin\Pictures\manytests\C#\OperatorsTask\OperatorsTask\obj\Debug\OperatorsTask.pdb
