@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\BooleanTask\BooleanTask\bin\Debug\BooleanTask.exe.config
+C:\Users\admin\Pictures\manytests\C#\BooleanTask\BooleanTask\bin\Debug\BooleanTask.exe
+C:\Users\admin\Pictures\manytests\C#\BooleanTask\BooleanTask\bin\Debug\BooleanTask.pdb
+C:\Users\admin\Pictures\manytests\C#\BooleanTask\BooleanTask\obj\Debug\BooleanTask.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\BooleanTask\BooleanTask\obj\Debug\BooleanTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\BooleanTask\BooleanTask\obj\Debug\BooleanTask.exe
+C:\Users\admin\Pictures\manytests\C#\BooleanTask\BooleanTask\obj\Debug\BooleanTask.pdb
