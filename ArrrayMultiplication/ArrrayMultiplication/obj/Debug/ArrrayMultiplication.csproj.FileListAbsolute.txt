@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\ArrrayMultiplication\ArrrayMultiplication\bin\Debug\ArrrayMultiplication.exe.config
+C:\Users\admin\Pictures\manytests\C#\ArrrayMultiplication\ArrrayMultiplication\bin\Debug\ArrrayMultiplication.exe
+C:\Users\admin\Pictures\manytests\C#\ArrrayMultiplication\ArrrayMultiplication\bin\Debug\ArrrayMultiplication.pdb
+C:\Users\admin\Pictures\manytests\C#\ArrrayMultiplication\ArrrayMultiplication\obj\Debug\ArrrayMultiplication.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\ArrrayMultiplication\ArrrayMultiplication\obj\Debug\ArrrayMultiplication.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\ArrrayMultiplication\ArrrayMultiplication\obj\Debug\ArrrayMultiplication.exe
+C:\Users\admin\Pictures\manytests\C#\ArrrayMultiplication\ArrrayMultiplication\obj\Debug\ArrrayMultiplication.pdb
