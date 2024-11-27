@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Pictures\\manytests\\C#\\ListTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D9EECED-87F7-4EF8-AAFE-9D794E29F8EF}|ListTask\\ListTask.csproj|c:\\users\\admin\\pictures\\manytests\\c#\\listtask\\listtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D9EECED-87F7-4EF8-AAFE-9D794E29F8EF}|ListTask\\ListTask.csproj|solutionrelative:listtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Pictures\\manytests\\C#\\ListTask\\ListTask\\Program.cs",
+              "RelativeDocumentMoniker": "ListTask\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Pictures\\manytests\\C#\\ListTask\\ListTask\\Program.cs",
+              "RelativeToolTip": "ListTask\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwC0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:29:23.56Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

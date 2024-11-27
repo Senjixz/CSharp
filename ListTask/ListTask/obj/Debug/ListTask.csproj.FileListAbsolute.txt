@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\ListTask\ListTask\bin\Debug\ListTask.exe.config
+C:\Users\admin\Pictures\manytests\C#\ListTask\ListTask\bin\Debug\ListTask.exe
+C:\Users\admin\Pictures\manytests\C#\ListTask\ListTask\bin\Debug\ListTask.pdb
+C:\Users\admin\Pictures\manytests\C#\ListTask\ListTask\obj\Debug\ListTask.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\ListTask\ListTask\obj\Debug\ListTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\ListTask\ListTask\obj\Debug\ListTask.exe
+C:\Users\admin\Pictures\manytests\C#\ListTask\ListTask\obj\Debug\ListTask.pdb
