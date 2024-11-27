@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\SortRevRem&Find\SortRevRem&Find\bin\Debug\SortRevRem&Find.exe.config
+C:\Users\admin\Pictures\manytests\C#\SortRevRem&Find\SortRevRem&Find\bin\Debug\SortRevRem&Find.exe
+C:\Users\admin\Pictures\manytests\C#\SortRevRem&Find\SortRevRem&Find\bin\Debug\SortRevRem&Find.pdb
+C:\Users\admin\Pictures\manytests\C#\SortRevRem&Find\SortRevRem&Find\obj\Debug\SortRevRem&Find.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\SortRevRem&Find\SortRevRem&Find\obj\Debug\SortRevRem&Find.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\SortRevRem&Find\SortRevRem&Find\obj\Debug\SortRevRem&Find.exe
+C:\Users\admin\Pictures\manytests\C#\SortRevRem&Find\SortRevRem&Find\obj\Debug\SortRevRem&Find.pdb
