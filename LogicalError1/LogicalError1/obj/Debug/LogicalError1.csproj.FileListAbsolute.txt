@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\LogicalError1\LogicalError1\bin\Debug\LogicalError1.exe.config
+C:\Users\admin\Pictures\manytests\C#\LogicalError1\LogicalError1\bin\Debug\LogicalError1.exe
+C:\Users\admin\Pictures\manytests\C#\LogicalError1\LogicalError1\bin\Debug\LogicalError1.pdb
+C:\Users\admin\Pictures\manytests\C#\LogicalError1\LogicalError1\obj\Debug\LogicalError1.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\LogicalError1\LogicalError1\obj\Debug\LogicalError1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\LogicalError1\LogicalError1\obj\Debug\LogicalError1.exe
+C:\Users\admin\Pictures\manytests\C#\LogicalError1\LogicalError1\obj\Debug\LogicalError1.pdb
