@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\LogicalError3\LogicalError3\bin\Debug\LogicalError3.exe.config
+C:\Users\admin\Pictures\manytests\C#\LogicalError3\LogicalError3\bin\Debug\LogicalError3.exe
+C:\Users\admin\Pictures\manytests\C#\LogicalError3\LogicalError3\bin\Debug\LogicalError3.pdb
+C:\Users\admin\Pictures\manytests\C#\LogicalError3\LogicalError3\obj\Debug\LogicalError3.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\LogicalError3\LogicalError3\obj\Debug\LogicalError3.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\LogicalError3\LogicalError3\obj\Debug\LogicalError3.exe
+C:\Users\admin\Pictures\manytests\C#\LogicalError3\LogicalError3\obj\Debug\LogicalError3.pdb
