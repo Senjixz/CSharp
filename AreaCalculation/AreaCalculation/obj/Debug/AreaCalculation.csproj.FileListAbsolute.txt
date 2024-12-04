@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.exe.config
+C:\Users\admin\Pictures\manytests\C#\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.exe
+C:\Users\admin\Pictures\manytests\C#\AreaCalculation\AreaCalculation\bin\Debug\AreaCalculation.pdb
+C:\Users\admin\Pictures\manytests\C#\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.exe
+C:\Users\admin\Pictures\manytests\C#\AreaCalculation\AreaCalculation\obj\Debug\AreaCalculation.pdb
