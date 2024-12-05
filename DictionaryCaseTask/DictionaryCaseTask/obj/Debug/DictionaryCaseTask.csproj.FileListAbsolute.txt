@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\DictionaryCaseTask\DictionaryCaseTask\bin\Debug\DictionaryCaseTask.exe.config
+C:\Users\admin\Pictures\manytests\C#\DictionaryCaseTask\DictionaryCaseTask\bin\Debug\DictionaryCaseTask.exe
+C:\Users\admin\Pictures\manytests\C#\DictionaryCaseTask\DictionaryCaseTask\bin\Debug\DictionaryCaseTask.pdb
+C:\Users\admin\Pictures\manytests\C#\DictionaryCaseTask\DictionaryCaseTask\obj\Debug\DictionaryCaseTask.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\DictionaryCaseTask\DictionaryCaseTask\obj\Debug\DictionaryCaseTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\DictionaryCaseTask\DictionaryCaseTask\obj\Debug\DictionaryCaseTask.exe
+C:\Users\admin\Pictures\manytests\C#\DictionaryCaseTask\DictionaryCaseTask\obj\Debug\DictionaryCaseTask.pdb
