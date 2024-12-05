@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\IntegerArray\IntegerArray\bin\Debug\IntegerArray.exe.config
+C:\Users\admin\Pictures\manytests\C#\IntegerArray\IntegerArray\bin\Debug\IntegerArray.exe
+C:\Users\admin\Pictures\manytests\C#\IntegerArray\IntegerArray\bin\Debug\IntegerArray.pdb
+C:\Users\admin\Pictures\manytests\C#\IntegerArray\IntegerArray\obj\Debug\IntegerArray.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\IntegerArray\IntegerArray\obj\Debug\IntegerArray.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\IntegerArray\IntegerArray\obj\Debug\IntegerArray.exe
+C:\Users\admin\Pictures\manytests\C#\IntegerArray\IntegerArray\obj\Debug\IntegerArray.pdb
