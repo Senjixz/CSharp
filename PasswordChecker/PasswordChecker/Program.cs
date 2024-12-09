@@ -21,6 +21,10 @@ namespace PasswordChecker
             {
                 Console.WriteLine("Please enter a password");
             }
+            if (password.Length <= 5)
+            {
+                Console.WriteLine("Please write a longer password");
+            }
             else if (password == compare)
             {
                 Console.WriteLine("Passwords match");
@@ -30,8 +34,7 @@ namespace PasswordChecker
                 Console.WriteLine("Passwords do not match");
             }
 
-
-                Console.ReadLine();
+            Console.ReadLine();
 
 
         }
