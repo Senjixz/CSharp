@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\CLassFields\CLassFields\bin\Debug\CLassFields.exe.config
+C:\Users\admin\Pictures\manytests\C#\CLassFields\CLassFields\bin\Debug\CLassFields.exe
+C:\Users\admin\Pictures\manytests\C#\CLassFields\CLassFields\bin\Debug\CLassFields.pdb
+C:\Users\admin\Pictures\manytests\C#\CLassFields\CLassFields\obj\Debug\CLassFields.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\CLassFields\CLassFields\obj\Debug\CLassFields.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\CLassFields\CLassFields\obj\Debug\CLassFields.exe
+C:\Users\admin\Pictures\manytests\C#\CLassFields\CLassFields\obj\Debug\CLassFields.pdb
