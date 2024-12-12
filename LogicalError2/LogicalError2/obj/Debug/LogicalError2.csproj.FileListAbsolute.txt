@@ -5,3 +5,10 @@ C:\Users\admin\Pictures\manytests\C#\LogicalError2\LogicalError2\obj\Debug\Logic
 C:\Users\admin\Pictures\manytests\C#\LogicalError2\LogicalError2\obj\Debug\LogicalError2.csproj.CoreCompileInputs.cache
 C:\Users\admin\Pictures\manytests\C#\LogicalError2\LogicalError2\obj\Debug\LogicalError2.exe
 C:\Users\admin\Pictures\manytests\C#\LogicalError2\LogicalError2\obj\Debug\LogicalError2.pdb
+C:\Users\admin\Documents\C#Assigments\LogicalError2\LogicalError2\bin\Debug\LogicalError2.exe.config
+C:\Users\admin\Documents\C#Assigments\LogicalError2\LogicalError2\bin\Debug\LogicalError2.exe
+C:\Users\admin\Documents\C#Assigments\LogicalError2\LogicalError2\bin\Debug\LogicalError2.pdb
+C:\Users\admin\Documents\C#Assigments\LogicalError2\LogicalError2\obj\Debug\LogicalError2.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\C#Assigments\LogicalError2\LogicalError2\obj\Debug\LogicalError2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\C#Assigments\LogicalError2\LogicalError2\obj\Debug\LogicalError2.exe
+C:\Users\admin\Documents\C#Assigments\LogicalError2\LogicalError2\obj\Debug\LogicalError2.pdb

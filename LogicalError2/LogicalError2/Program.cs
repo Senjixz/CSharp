@@ -12,8 +12,11 @@ namespace LogicalError2
         {
             Console.WriteLine("Enter an age number");
             int age = Convert.ToInt32(Console.ReadLine());
-
-            if (age < 29)
+            if(age < 18)
+            {
+                Console.WriteLine("Under 18");
+            }
+            else if (age < 29)
             {
                 Console.WriteLine("Over 18");
             }
