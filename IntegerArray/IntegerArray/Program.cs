@@ -21,6 +21,10 @@ namespace IntegerArray
                 {
                     Console.WriteLine("The total is: " + sum);
                 }
+                else if (sum < 0)
+                {
+                    Console.WriteLine("Error! The value is negative: " + sum);
+                }
             }
             else
             {
