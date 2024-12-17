@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\FunctionsTask\FunctionsTask\bin\Debug\FunctionsTask.exe.config
+C:\Users\admin\Pictures\manytests\C#\FunctionsTask\FunctionsTask\bin\Debug\FunctionsTask.exe
+C:\Users\admin\Pictures\manytests\C#\FunctionsTask\FunctionsTask\bin\Debug\FunctionsTask.pdb
+C:\Users\admin\Pictures\manytests\C#\FunctionsTask\FunctionsTask\obj\Debug\FunctionsTask.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\FunctionsTask\FunctionsTask\obj\Debug\FunctionsTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\FunctionsTask\FunctionsTask\obj\Debug\FunctionsTask.exe
+C:\Users\admin\Pictures\manytests\C#\FunctionsTask\FunctionsTask\obj\Debug\FunctionsTask.pdb
