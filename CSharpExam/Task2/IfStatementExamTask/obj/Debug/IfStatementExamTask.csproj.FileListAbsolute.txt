@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\IfStatementExamTask\IfStatementExamTask\bin\Debug\IfStatementExamTask.exe.config
+C:\Users\admin\Pictures\manytests\C#\IfStatementExamTask\IfStatementExamTask\bin\Debug\IfStatementExamTask.exe
+C:\Users\admin\Pictures\manytests\C#\IfStatementExamTask\IfStatementExamTask\bin\Debug\IfStatementExamTask.pdb
+C:\Users\admin\Pictures\manytests\C#\IfStatementExamTask\IfStatementExamTask\obj\Debug\IfStatementExamTask.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\IfStatementExamTask\IfStatementExamTask\obj\Debug\IfStatementExamTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\IfStatementExamTask\IfStatementExamTask\obj\Debug\IfStatementExamTask.exe
+C:\Users\admin\Pictures\manytests\C#\IfStatementExamTask\IfStatementExamTask\obj\Debug\IfStatementExamTask.pdb

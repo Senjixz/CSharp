@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\ArrayExamTask\ArrayExamTask\bin\Debug\ArrayExamTask.exe.config
+C:\Users\admin\Pictures\manytests\C#\ArrayExamTask\ArrayExamTask\bin\Debug\ArrayExamTask.exe
+C:\Users\admin\Pictures\manytests\C#\ArrayExamTask\ArrayExamTask\bin\Debug\ArrayExamTask.pdb
+C:\Users\admin\Pictures\manytests\C#\ArrayExamTask\ArrayExamTask\obj\Debug\ArrayExamTask.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\ArrayExamTask\ArrayExamTask\obj\Debug\ArrayExamTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\ArrayExamTask\ArrayExamTask\obj\Debug\ArrayExamTask.exe
+C:\Users\admin\Pictures\manytests\C#\ArrayExamTask\ArrayExamTask\obj\Debug\ArrayExamTask.pdb

@@ -1,0 +1,7 @@
+C:\Users\admin\Pictures\manytests\C#\IntExamTask\IntExamTask\bin\Debug\IntExamTask.exe.config
+C:\Users\admin\Pictures\manytests\C#\IntExamTask\IntExamTask\bin\Debug\IntExamTask.exe
+C:\Users\admin\Pictures\manytests\C#\IntExamTask\IntExamTask\bin\Debug\IntExamTask.pdb
+C:\Users\admin\Pictures\manytests\C#\IntExamTask\IntExamTask\obj\Debug\IntExamTask.csproj.AssemblyReference.cache
+C:\Users\admin\Pictures\manytests\C#\IntExamTask\IntExamTask\obj\Debug\IntExamTask.csproj.CoreCompileInputs.cache
+C:\Users\admin\Pictures\manytests\C#\IntExamTask\IntExamTask\obj\Debug\IntExamTask.exe
+C:\Users\admin\Pictures\manytests\C#\IntExamTask\IntExamTask\obj\Debug\IntExamTask.pdb
